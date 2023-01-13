@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 change in cafe
+=======
+change in home
+>>>>>>> b4ae0f05c314836f1b353b24a451f2b7e2f39a87
